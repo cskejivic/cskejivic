@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm Daiki 👋
+
+I really enjoy learinig languages and frameworks including Kotlin, Jetpack Compose and React.
 
 <!--
 **cskejivic/cskejivic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
