@@ -1,7 +1,5 @@
 ### Hi, I'm Daiki 👋
 
-I really enjoy learinig languages and frameworks including Kotlin, JavaScript, Jetpack Compose and React.
-
 ## Languages
 <div style="display: inline_block"><br>
   <img high="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /> 
